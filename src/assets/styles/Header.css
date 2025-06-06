@@ -6,7 +6,7 @@
     width: 100%;
     align-items: center;
     padding: 10px;
-    color: #000000;
+    color: black;
     background-color: #fff;
     box-shadow: 0 4px 4px rgba(0, 0, 0, 0.1); 
     position: relative; /* Ensure relative positioning */
